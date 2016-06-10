@@ -9,4 +9,3 @@ Une sélection d'articles cool et pratiques, à lire.
 
 ## Autres
 * [Participez au web !](https://www.emmanuelbeziat.com/blog/participez-au-web/)
-* 

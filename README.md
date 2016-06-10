@@ -8,3 +8,5 @@ Une sélection d'articles cool et pratiques, à lire.
 * [10 bonnes pratiques](http://www.js-attitude.fr/2013/01/21/dix-bonnes-pratiques-javascript/)
 
 ## Autres
+* [Participez au web !](https://www.emmanuelbeziat.com/blog/participez-au-web/)
+* 
